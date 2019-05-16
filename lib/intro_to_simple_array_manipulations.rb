@@ -1,5 +1,5 @@
 def using_push
-  countries = ["Uganda", "Chad"]
-  countries.push("Niger")
+  countries = []
+  countries.push
   puts countries
 end
