@@ -1,4 +1,4 @@
-def using_push(countries, "")
+def using_push(countries, " ")
   countries = []
   countries.push
   puts countries
